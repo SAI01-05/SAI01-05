@@ -1,7 +1,8 @@
-<img align="right" alt="Gaming" width="1200" height="200" src="https://github.com/SAI01-05/SAI01-05/blob/main/Banner.jpg"><br><br>
+<img align="center" alt="Banner" width="1000" height="200" src="https://github.com/SAI01-05/SAI01-05/blob/main/Banner.jpg"><br>
 <h1 align="center">Hi, I'm Sai Halwai</h1>
 <h3 align="center">Game Designer focused on gameplay systems and player experience</h3>
 
+<img align="right" alt="Gaming" width="600" height="1000" src="https://github.com/SAI01-05/SAI01-05/blob/main/PS5.gif"><br><br>
 
 - I’m currently learning **Unity ,Blender**
 
