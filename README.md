@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sai Halwai</h1>
 <h3 align="center">Game Designer focused on gameplay systems and player experience</h3>
 
-<img align="right" alt="Gaming" width="600" height="1000" src="https://github.com/SAI01-05/SAI01-05/blob/main/PS5.gif"><br><br>
+<img align="right" alt="Gaming" width="500" height="1000" src="https://github.com/SAI01-05/SAI01-05/blob/main/PS5.gif"><br><br>
 
 - I’m currently learning **Unity ,Blender**
 
